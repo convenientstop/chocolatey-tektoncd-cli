@@ -14,7 +14,7 @@ choco install tektoncd-cli --confirm
 
 1. Clone this repository and make updates to the package
 
-2. In the `tektoncd-cli` folder of this repository, run `choco pack`
+2. In the `tektoncd-cli` folder of this repository, run `choco pack` 🍫
 
 3. Run `choco install tektoncd-cli -s .` to run the package locally
 
